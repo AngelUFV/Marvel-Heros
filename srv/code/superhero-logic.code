@@ -1,0 +1,12 @@
+{
+    "version": "2.0",
+    "codes": [],
+    "configuration": {
+        "phase": "after",
+        "events": [
+            "READ"
+        ],
+        "entity": "prueba1Srv.SuperHero"
+    },
+    "hash": "6ce50ae47d506bd0b1acbc5272ce4773c09117e1eab74a5faad3de162b33ddb0d570261a5b1f8cf2e07209c8eb8e0887ac931394b3ec2d978c82c5613fd3c75f"
+}

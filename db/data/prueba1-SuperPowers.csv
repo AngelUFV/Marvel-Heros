@@ -1,0 +1,21 @@
+ID;name;description;superHero_ID
+8b7a334f-4996-4213-9e1e-864877f15265;Flight;Ability to fly at high speeds;4c660272-3331-41dc-84bc-471843b4b431
+8c125e3f-9c10-42af-a26a-6f9ae3a25117;Repulsor Beams;Energy blasts from hands;4c660272-3331-41dc-84bc-471843b4b431
+94334e10-0c27-4bb6-8176-07d4c7f02bfe;Super Soldier Serum;Enhanced strength, speed, and agility;63ca20f1-ec50-4f63-91e0-093a7e90821c
+f74b132a-8875-439e-b6c9-e5b6de30f5c5;Shield;Vibranium shield for defense;63ca20f1-ec50-4f63-91e0-093a7e90821c
+29727f9a-0562-46b3-b554-f5d09f5eb5e7;Superhuman Strength;Enhanced strength and durability;8462efe6-d8b0-4d48-ade6-9ae126a40e4a
+9df72a1f-2e56-442e-9158-ea46630ea1d3;Lasso of Truth;Forces truth from anyone it captures;8462efe6-d8b0-4d48-ade6-9ae126a40e4a
+1a8ceed1-3fae-40e4-87d3-02e8ceaef081;Spider-Sense;Enhanced reflexes and danger detection;541b4e07-7efd-444d-aa25-30e444ff609e
+bbd8da85-396e-4cfa-9cee-0827977ca9e3;Web-Slinging;Ability to swing from webs and create web-based weapons;541b4e07-7efd-444d-aa25-30e444ff609e
+38abfbba-906e-4bc3-999d-d788fca6536f;Espionage;Master spy and infiltration techniques;af5462a9-63b6-47be-8508-9659edda1db7
+e8afa277-7050-47a6-8ac3-48ba8945b758;Hand-to-Hand Combat;Expert in various forms of martial arts;af5462a9-63b6-47be-8508-9659edda1db7
+b1c8cfdc-6562-49cf-b763-719b75b7e2c9;Flight;Ability to fly and superhuman strength;d993118e-3ccc-42ca-9994-e029d02c13a0
+55db2282-5d0f-475d-be87-f20aea7ef2c6;Heat Vision;Energy beams emitted from eyes;d993118e-3ccc-42ca-9994-e029d02c13a0
+cea450f3-05d0-4454-bd0c-ce150f99805a;Intelligence;Genius-level intellect and detective skills;937c180c-c330-44f8-bc5f-00c3dc5c51da
+5628ccad-8e73-4af4-8159-1fee82ac4197;Martial Arts;Expert in hand-to-hand combat and weaponry;937c180c-c330-44f8-bc5f-00c3dc5c51da
+0d6fca57-0ebd-4d9c-b442-db5361930331;Mjolnir;Magical hammer granting control over lightning and weather;c510fcf5-3e9f-4642-b765-f6bfab6a7456
+a276de21-e9c3-4e5b-9bb6-7a86ba17e106;Superhuman Strength;Unlimited strength and durability;c510fcf5-3e9f-4642-b765-f6bfab6a7456
+6f35906d-f240-4e2f-b459-cbfa2e65c531;Gamma Radiation;Transforms into a giant, green-skinned creature with immense strength;1e98fd3b-e604-4e82-aebf-2b02445db839
+3188773a-b089-4989-b4c7-03b458091dfa;Regeneration;Ability to heal rapidly from injuries;1e98fd3b-e604-4e82-aebf-2b02445db839
+b97fe6f4-6d96-4319-bd24-06c41b7bbda8;Vibranium Suit;Enhanced strength, speed, and agility;3bda6f66-6895-41c4-8261-9eda89e2dc9e
+6bdaa659-fdbd-4001-bbf3-32c163c6ff15;Panther Claws;Vibranium claws for offense and defense;3bda6f66-6895-41c4-8261-9eda89e2dc9e

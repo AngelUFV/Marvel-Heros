@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title> Project Preview </title>
+    <script src="shared-config.js"></script>
+    <script src="https://ui5.sap.com/1.108.7/resources/sap-ui-core.js" 
+            id="sap-ui-bootstrap"
+            data-sap-ui-theme="sap_horizon"
+            data-sap-ui-bindingSyntax="complex" 
+            data-sap-ui-xx-bindingSyntax="complex"
+            data-sap-ui-resourceroots='{"assets": "assets"}' 
+            data-sap-ui-libs="sap.m,sap.uxap,sap.ui.layout,sap.f">
+    </script>
+    <link rel="stylesheet" href="assets/preview.css">
+</head>
+
+<body id="body" class="sapUiBody">
+    <script>
+        "use strict";
+        sap.ui.localResources("assets");
+        (function (jQuery, App, Page) {
+            sap.ui.getCore().attachInit(function () {
+                sap.ui.define([
+                    "sap/ui/core/mvc/Controller",
+                    "sap/ui/model/json/JSONModel"
+                ], function (Controller, JSONModel) {
+                    return Controller.extend("PreviewController", {
+                        onInit: function () {
+
+                            const data = {"Services":[{"ServiceName":"prueba1Srv","DetailsURL":"./service/prueba1/","Metadata":"./service/prueba1/$metadata","Entities":[{"Name":"SuperHero","URL":"./service/prueba1/SuperHero","FioriURL":"$fiori-preview/prueba1Srv/SuperHero#preview-app"},{"Name":"SuperPowers","URL":"./service/prueba1/SuperPowers","FioriURL":"$fiori-preview/prueba1Srv/SuperPowers#preview-app"},{"Name":"SecretIdentity","URL":"./service/prueba1/SecretIdentity","FioriURL":"$fiori-preview/prueba1Srv/SecretIdentity#preview-app"},{"Name":"Villians","URL":"./service/prueba1/Villians","FioriURL":"$fiori-preview/prueba1Srv/Villians#preview-app"}],"EntitiesCount":4}]}
+                            this.getView().setModel(new JSONModel(data));
+                        }
+                    });
+                });
+                var oApp = new App()
+                var previewView = sap.ui.view({
+                    viewName: "assets.Preview",
+                    type: sap.ui.core.mvc.ViewType.XML
+                });
+                oApp.addPage(new Page({
+                    content: [previewView],
+                    showHeader: false
+                })).placeAt("content");
+            });
+
+        }(jQuery, sap.m.App, sap.m.Page));
+    </script>
+    <div id="content"></div>
+</body>
+
+</html>

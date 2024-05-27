@@ -1,0 +1,11 @@
+ID;name;age;gender;description;secretIdentity_ID;villians_ID
+4c660272-3331-41dc-84bc-471843b4b431;Iron Man;35;Male;Genius billionaire inventor and philanthropist;4c660272-3331-41dc-84bc-471843b4b431;b20db040-11b1-40e0-ba0c-7e9aca4d1d10
+63ca20f1-ec50-4f63-91e0-093a7e90821c;Captain America;40;Male;Super soldier and leader of the Avengers;63ca20f1-ec50-4f63-91e0-093a7e90821c;b20db040-11b1-40e0-ba0c-7e9aca4d1d10
+8462efe6-d8b0-4d48-ade6-9ae126a40e4a;Wonder Woman;30;Female;Amazon princess and warrior;8462efe6-d8b0-4d48-ade6-9ae126a40e4a;9696e96b-69c5-4157-b859-63112a47ca7f
+541b4e07-7efd-444d-aa25-30e444ff609e;Spider-Man;18;Male;Friendly neighborhood superhero with spider-like abilities;541b4e07-7efd-444d-aa25-30e444ff609e;22d9d5cc-bae3-4392-bba8-9cd763276077
+af5462a9-63b6-47be-8508-9659edda1db7;Black Widow;35;Female;Highly trained spy and assassin;af5462a9-63b6-47be-8508-9659edda1db7;0ceb3982-8550-4526-8c9a-84f774e507ad
+d993118e-3ccc-42ca-9994-e029d02c13a0;Superman;35;Male;Last son of Krypton with superhuman powers;d993118e-3ccc-42ca-9994-e029d02c13a0;fc240026-b7f4-4aab-bdc5-0e81cf04c855
+937c180c-c330-44f8-bc5f-00c3dc5c51da;Batman;40;Male;Billionaire playboy and vigilante crime-fighter;937c180c-c330-44f8-bc5f-00c3dc5c51da;d01206c5-b857-4bff-a8f5-7497db277170
+c510fcf5-3e9f-4642-b765-f6bfab6a7456;Thor;1000;Male;Norse god of thunder and member of the Avengers;c510fcf5-3e9f-4642-b765-f6bfab6a7456;d8a5bfda-19e5-432b-ba0d-098a02cb30c9
+1e98fd3b-e604-4e82-aebf-2b02445db839;Hulk;45;Male;Gamma-powered scientist with superhuman strength;1e98fd3b-e604-4e82-aebf-2b02445db839;eed59c7d-a9ad-40a6-8fbd-4480d2d87204
+3bda6f66-6895-41c4-8261-9eda89e2dc9e;Black Panther;35;Male;King of Wakanda and skilled warrior;3bda6f66-6895-41c4-8261-9eda89e2dc9e;9696e96b-69c5-4157-b859-63112a47ca7f

@@ -1,0 +1,11 @@
+name,age,gender,description,ID,superHeros_ID
+Loki,1000,Male,God of Mischief,eed59c7d-a9ad-40a6-8fbd-4480d2d87204,1e98fd3b-e604-4e82-aebf-2b02445db839
+Thanos,1000,Male,The Mad Titan,d8a5bfda-19e5-432b-ba0d-098a02cb30c9,541b4e07-7efd-444d-aa25-30e444ff609e
+Green Goblin,55,Male,Norman Osborn,fc240026-b7f4-4aab-bdc5-0e81cf04c855,63ca20f1-ec50-4f63-91e0-093a7e90821c
+Doctor Octopus,45,Male,Otto Octavius,22d9d5cc-bae3-4392-bba8-9cd763276077,541b4e07-7efd-444d-aa25-30e444ff609e
+Magneto,80,Male,Master of Magnetism,0ceb3982-8550-4526-8c9a-84f774e507ad,937c180c-c330-44f8-bc5f-00c3dc5c51da
+Hella,3000,Female,Goddess of Death,9696e96b-69c5-4157-b859-63112a47ca7f,c510fcf5-3e9f-4642-b765-f6bfab6a7456
+Red Skull,100,Male,Nazi Leader,b20db040-11b1-40e0-ba0c-7e9aca4d1d10,63ca20f1-ec50-4f63-91e0-093a7e90821c
+Ullik the Troll,350,Male,King of the Trolls,d48daedb-5dcb-4817-a2d9-76258f4523a5,d993118e-3ccc-42ca-9994-e029d02c13a0
+Venom,30,Male,Alien Symbiote,d01206c5-b857-4bff-a8f5-7497db277170,541b4e07-7efd-444d-aa25-30e444ff609e
+Mystique,100,Female,Shapeshifter,703bdd0f-9a1d-45e2-a77d-bac7f41dae46,937c180c-c330-44f8-bc5f-00c3dc5c51da
